@@ -69,11 +69,6 @@ This is a static website and requires no complex setup or build process.
 3.  **Open in Browser:**
     -   Simply open the `index.html` file in your web browser of choice (like Chrome, Firefox, or Edge).
 
-4.  **Important: Configure the Contact Form:**
-    -   The contact form **will not work** until you link it to your own Formspree account.
-    -   Go to [formspree.io](https://formspree.io/), sign up for a free account, and create a new form.
-    -   You will be given a unique endpoint URL (e.g., `https://formspree.io/f/your_unique_code`).
-    -   Open the `contact.html` file and replace the `action` attribute in the `<form>` tag with your new endpoint URL.
 
 ---
 
